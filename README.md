@@ -2,5 +2,5 @@
 
 All of my solutions for the annual Advent of Code.
 
-2023: Learning Go
-2024: Typescript refresher
+- 2023: Learning Go
+- 2024: Typescript refresher
